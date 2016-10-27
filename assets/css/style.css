@@ -1,0 +1,61 @@
+h1 {
+	background:#4aaaa5;
+	padding:15px;
+	color: white;
+	margin-right: 70%;
+	text-align: center;
+	margin-left: 5%;
+}
+
+#about{
+	float: left;
+	margin-left: 75%;
+	list-style-type:none;
+}
+
+#portfolio{
+	float: left;
+	list-style-type: none;
+	padding-left: 5px;
+}
+
+#contact {
+	float:left;
+
+}
+
+.boxed{
+	background-color: white;
+	border: solid 1px #333;
+	
+}
+
+.splash{
+	background-color:#cccccc;
+	background:#cccccc;
+}
+
+.by-picture{
+	float:left;
+	margin-right:10px;
+	margin-bottom: 5px;
+}
+
+.samll-bar{
+	margin-right: 33,3px;
+}
+
+footer{
+	border-style: solid;
+	border-color: #4aaaa5;
+	border-top-width: 15px;
+	margin-top: 50px;
+	text-align: center;
+	font-color:#ffffff;
+	clear:both;
+	font-size: 10px
+}
+
+.link-buttons{
+	float:left;
+}
